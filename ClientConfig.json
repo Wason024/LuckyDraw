@@ -2,12 +2,8 @@
 	
 	"sharingIP": "www.sharing.com.hk",
 
-	
-	"_raceTime": 10,
-	"raceTime": 30,
-	"_TcNo": 0 1 2 3 4 5 ,
-	"TcNo": 0,
-	"MainSpeed": 20,
 
-	"debugLog": 1
+
+	"TcNo": 0,
+	"debugLog": 0
 }
