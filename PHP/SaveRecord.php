@@ -20,5 +20,5 @@ if (!isset($_SERVER['PATH_INFO']) or $_SERVER['PATH_INFO']=='/') {
 		echo 1;
 		
 	$con->close();
-}
+
 ?>
